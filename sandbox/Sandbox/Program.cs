@@ -9,9 +9,9 @@ class Program
 
         int x = int.Parse(valueFromUser);
         int y = 2;
-        int z = 5;
+
         
-        if (!(x > y || x < y) && y < z)
+        if (x > y)
         {
             Console.WriteLine("greater");
         }

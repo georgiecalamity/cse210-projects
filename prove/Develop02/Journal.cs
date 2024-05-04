@@ -46,7 +46,7 @@ public class Journal {
     }
 
     public void LoadFromFile() {
-        Console.Write("Please enter the file name you would like to load from: ");
+        Console.Write("Filename you would like to laod: ");
         String filename = Console.ReadLine();
         try {
             using (StreamReader reader = new StreamReader(filename)) {

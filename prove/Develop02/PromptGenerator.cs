@@ -5,19 +5,15 @@ public class PromptGenerator {
 
     public PromptGenerator() {
         _prompts = new List<string> {
-             "What was the best part of your day?",
-            "Write about an experience where you felt the spirit with you today:",
-            "Who was the most interesting person you interacted with today?",
-            "Write about something that happened for which you are grateful today:",
-            "If you had one thing you could do over today, what would it be?",
-            "What was the strongest emotion you felt today?",
-            "Write about an act of service you either witnessed or performed today:>",
-            "Write about something you learned today:",
-            "Write about a tender mercy you noticed today:",
-            "Write about a positive interaction you had with someone else today:",
-            "Write about something you noticed that reminded you of Jesus Christ today:",
-            "Write about something you learned about someone in your life today:",
-            "Write about an experience you had that allowed you to teach someone else today:"
+        "How do your co-workers and supervisors recognize your strengths?",
+        "How does work fulfill you? Does it leave you wanting more?",
+        "What part of your workday do you most enjoy?",
+        "What about your work feels real, necessary, or important to you?",
+        "Do you see yourself in the same job in 10 years?",
+        "What are your career ambitions?",
+        "What three things can help you begin working to accomplish those goals?",
+        "What can you do to improve your work performance?",
+        "What does your work teach you? Does it offer continued opportunities for learning and growth?",
         };
     }
 

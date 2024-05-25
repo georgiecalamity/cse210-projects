@@ -1,4 +1,0 @@
-0
-simple:read:none:10:0
-eternal:pray:daily:10:0
-checklist:attend temple:ordinance:10:0:2:10
